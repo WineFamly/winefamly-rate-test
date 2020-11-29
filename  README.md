@@ -32,6 +32,6 @@ Feel free to use any workflow and technology that you feel comfortable with.
 When finished, upload to a public repository on [GitHub](https://github.com/), and email me the link @ [stl@winefamly.com](mailto:stl@winefamly.com).
 
 ## Deadline
-I would like to have your submission by Friday the 17th of July
+I would like to have your submission by Wednesday the 2nd of December
 
 **Have fun building!** 🚀
